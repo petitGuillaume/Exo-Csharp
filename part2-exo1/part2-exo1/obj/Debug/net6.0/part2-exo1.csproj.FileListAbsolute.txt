@@ -1,0 +1,15 @@
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\bin\Debug\net6.0\part2-exo1.exe
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\bin\Debug\net6.0\part2-exo1.deps.json
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\bin\Debug\net6.0\part2-exo1.runtimeconfig.json
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\bin\Debug\net6.0\part2-exo1.dll
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\bin\Debug\net6.0\ref\part2-exo1.dll
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\bin\Debug\net6.0\part2-exo1.pdb
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\obj\Debug\net6.0\part2-exo1.csproj.AssemblyReference.cache
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\obj\Debug\net6.0\part2-exo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\obj\Debug\net6.0\part2-exo1.AssemblyInfoInputs.cache
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\obj\Debug\net6.0\part2-exo1.AssemblyInfo.cs
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\obj\Debug\net6.0\part2-exo1.csproj.CoreCompileInputs.cache
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\obj\Debug\net6.0\part2-exo1.dll
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\obj\Debug\net6.0\ref\part2-exo1.dll
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\obj\Debug\net6.0\part2-exo1.pdb
+C:\Users\ooguiboogui\source\repos\part2-exo1\part2-exo1\obj\Debug\net6.0\part2-exo1.genruntimeconfig.cache

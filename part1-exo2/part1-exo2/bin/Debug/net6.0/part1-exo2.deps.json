@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "part1-exo2/1.0.0": {
+        "runtime": {
+          "part1-exo2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "part1-exo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

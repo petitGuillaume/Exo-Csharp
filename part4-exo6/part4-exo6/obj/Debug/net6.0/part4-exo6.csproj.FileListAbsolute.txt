@@ -1,0 +1,14 @@
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\obj\Debug\net6.0\part4-exo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\obj\Debug\net6.0\part4-exo6.AssemblyInfoInputs.cache
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\obj\Debug\net6.0\part4-exo6.AssemblyInfo.cs
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\obj\Debug\net6.0\part4-exo6.csproj.CoreCompileInputs.cache
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\bin\Debug\net6.0\part4-exo6.exe
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\bin\Debug\net6.0\part4-exo6.deps.json
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\bin\Debug\net6.0\part4-exo6.runtimeconfig.json
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\bin\Debug\net6.0\part4-exo6.dll
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\bin\Debug\net6.0\ref\part4-exo6.dll
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\bin\Debug\net6.0\part4-exo6.pdb
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\obj\Debug\net6.0\part4-exo6.dll
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\obj\Debug\net6.0\ref\part4-exo6.dll
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\obj\Debug\net6.0\part4-exo6.pdb
+C:\Users\ooguiboogui\source\repos\part4-exo6\part4-exo6\obj\Debug\net6.0\part4-exo6.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\bin\Debug\net6.0\Part4-exo2.exe
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\bin\Debug\net6.0\Part4-exo2.deps.json
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\bin\Debug\net6.0\Part4-exo2.runtimeconfig.json
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\bin\Debug\net6.0\Part4-exo2.dll
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\bin\Debug\net6.0\ref\Part4-exo2.dll
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\bin\Debug\net6.0\Part4-exo2.pdb
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\obj\Debug\net6.0\Part4-exo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\obj\Debug\net6.0\Part4-exo2.AssemblyInfoInputs.cache
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\obj\Debug\net6.0\Part4-exo2.AssemblyInfo.cs
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\obj\Debug\net6.0\Part4-exo2.csproj.CoreCompileInputs.cache
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\obj\Debug\net6.0\Part4-exo2.dll
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\obj\Debug\net6.0\ref\Part4-exo2.dll
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\obj\Debug\net6.0\Part4-exo2.pdb
+C:\Users\ooguiboogui\source\repos\Part4-exo2\Part4-exo2\obj\Debug\net6.0\Part4-exo2.genruntimeconfig.cache

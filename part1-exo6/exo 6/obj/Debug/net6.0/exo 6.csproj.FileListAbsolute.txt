@@ -1,0 +1,30 @@
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\bin\Debug\net6.0\exo 6.exe
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\bin\Debug\net6.0\exo 6.deps.json
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\bin\Debug\net6.0\exo 6.runtimeconfig.json
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\bin\Debug\net6.0\exo 6.dll
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\bin\Debug\net6.0\ref\exo 6.dll
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\bin\Debug\net6.0\exo 6.pdb
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\obj\Debug\net6.0\exo 6.csproj.AssemblyReference.cache
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\obj\Debug\net6.0\exo 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\obj\Debug\net6.0\exo 6.AssemblyInfoInputs.cache
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\obj\Debug\net6.0\exo 6.AssemblyInfo.cs
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\obj\Debug\net6.0\exo 6.csproj.CoreCompileInputs.cache
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\obj\Debug\net6.0\exo 6.dll
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\obj\Debug\net6.0\ref\exo 6.dll
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\obj\Debug\net6.0\exo 6.pdb
+C:\Users\ooguiboogui\source\repos\exo 6\exo 6\obj\Debug\net6.0\exo 6.genruntimeconfig.cache
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\bin\Debug\net6.0\exo 6.exe
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\bin\Debug\net6.0\exo 6.deps.json
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\bin\Debug\net6.0\exo 6.runtimeconfig.json
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\bin\Debug\net6.0\exo 6.dll
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\bin\Debug\net6.0\ref\exo 6.dll
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\bin\Debug\net6.0\exo 6.pdb
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\obj\Debug\net6.0\exo 6.csproj.AssemblyReference.cache
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\obj\Debug\net6.0\exo 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\obj\Debug\net6.0\exo 6.AssemblyInfoInputs.cache
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\obj\Debug\net6.0\exo 6.AssemblyInfo.cs
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\obj\Debug\net6.0\exo 6.csproj.CoreCompileInputs.cache
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\obj\Debug\net6.0\exo 6.dll
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\obj\Debug\net6.0\ref\exo 6.dll
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\obj\Debug\net6.0\exo 6.pdb
+C:\Users\ooguiboogui\source\repos\part1-exo6\exo 6\obj\Debug\net6.0\exo 6.genruntimeconfig.cache
