@@ -24,3 +24,7 @@ for (bool condition = false; condition != true; )
 }
 
 Console.WriteLine("Le resultat est égale à " + result);
+
+
+// priviligier un do while le for est une mauvaise idée ici
+// try catch permet de géré les exeption.

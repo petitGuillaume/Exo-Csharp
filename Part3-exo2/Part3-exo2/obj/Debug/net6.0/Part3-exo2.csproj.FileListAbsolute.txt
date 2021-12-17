@@ -12,3 +12,4 @@ C:\Users\ooguiboogui\source\repos\Part3-exo2\Part3-exo2\obj\Debug\net6.0\Part3-e
 C:\Users\ooguiboogui\source\repos\Part3-exo2\Part3-exo2\obj\Debug\net6.0\ref\Part3-exo2.dll
 C:\Users\ooguiboogui\source\repos\Part3-exo2\Part3-exo2\obj\Debug\net6.0\Part3-exo2.pdb
 C:\Users\ooguiboogui\source\repos\Part3-exo2\Part3-exo2\obj\Debug\net6.0\Part3-exo2.genruntimeconfig.cache
+C:\Users\ooguiboogui\source\repos\Part3-exo2\Part3-exo2\obj\Debug\net6.0\Part3-exo2.csproj.AssemblyReference.cache

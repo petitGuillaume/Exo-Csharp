@@ -1,4 +1,6 @@
-﻿for (int i = 1; i < 11; i++)
+﻿for (int messageNumber = 1; messageNumber < 11; messageNumber++)
 {
-    Console.WriteLine("Bonjour, je suis le message n°" + i);
+    Console.WriteLine("Bonjour, je suis le message n°" + messageNumber);
 }
+
+// eviter de mettre de i dans les boucle for

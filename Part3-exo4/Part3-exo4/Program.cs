@@ -1,32 +1,32 @@
 ﻿Random rnd = new Random();
-int numberRandom = rnd.Next(0, 50);
-int i = 1;
+int numberRandom = rnd.Next(1, 51);
+int numberTry = 1;
 
-Console.WriteLine("Esayez de déviner le nombre compris entre 0 et 50");
+Console.WriteLine("Essayez de deviner le nombre compris entre 1 et 50");
+bool isFound = false;
 
-for (bool condition = false; condition != true;)
+while (!isFound)
 {
 
     int numberTest = 0;
-
+    // tant que l'utilisateur ne rentre pas un nombre, redemande un nombre
     while (!int.TryParse(Console.ReadLine(), out numberTest))
     {
         Console.WriteLine("Les lettres ne sont pas autorisé, écrivez juste des nombre");
     }
 
-        if (numberTest < numberRandom)
-        {
-            Console.WriteLine("Plus grand!");
-            i++;
-        }
-        else if (numberTest > numberRandom)
-        {
-            Console.WriteLine("plus petit");
-            i++;
-        }
-        else
-        {
-            Console.WriteLine("bravo vous avez trouvez, il vous a fallu " + i + " essais");
-            condition = true;
-        }
+    if (numberTest < numberRandom)
+    {
+        Console.WriteLine("Plus grand!");
+    }
+    else if (numberTest > numberRandom)
+    {
+        Console.WriteLine("plus petit");
+    }
+    else
+    {
+        Console.WriteLine("bravo vous avez trouvé, il vous a fallu " + numberTry + " essais");
+        isFound = true;
+    }
+    numberTry++;
 }

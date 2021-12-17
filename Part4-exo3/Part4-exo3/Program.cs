@@ -23,3 +23,5 @@ foreach (int calculs in calcul)
 
 }
 Console.WriteLine("le résultat du calcul est: " + result);
+
+// String.Join()
